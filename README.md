@@ -1,2 +1,2 @@
 # logistics_network
-Created a smart contract using Ethereum.
+Build a Decentralized Autonomous System for fund transfer between different entities in which whole process is governed by Smart Contracts and payment done by Cryptocurrencies.
