@@ -1,0 +1,16 @@
+{
+  "name": "transport",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "lite-server",
+    "build": "./node_modules/.bin/webpack"
+  },
+  "dependencies": {
+    "lite-server": "^2.3.0",
+    "web3": "^1.0.0-beta.55",
+    "copy-webpack-plugin": "^4.6.0",
+    "webpack": "^4.28.1",
+    "webpack-cli": "^3.2.1",
+    "webpack-dev-server": "^3.1.14"
+  }
+}
